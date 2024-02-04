@@ -39,10 +39,10 @@ python LSTH.py
 The calculator interface should now open, and you can start using it immediately.
 
 # Instruction Set
-Enter the first number, press Load
-Enter the second number, press load
-Enter the operation you want to perform(add, sub, mul, div)
-Enter the out button
+Enter the first number, press Load.
+Enter the second number, press load.
+Enter the operation you want to perform(add, sub, mul, div).
+Enter the out button.
 Result will be displayed on the screen.
 
 # Customization
